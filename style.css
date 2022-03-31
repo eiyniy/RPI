@@ -313,7 +313,8 @@ h2 {
 }
 
 .button_circle {
-  padding: 34px 30px 34px 38px;
+  padding: 30px 34px 30px 34px;
+  border-radius: 50%;
 }
 
 .news_block {
